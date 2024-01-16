@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "TmdbDemo"
 include(":app")
- 
+include(":domain")
